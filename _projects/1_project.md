@@ -5,7 +5,7 @@ description: with background image
 img: assets/img/ARTICT_Goya.png
 importance: 1
 category: work
-related_publications: true
+redirect: https://art-ict.github.io/artict/home.html
 ---
 
 Every project has a beautiful feature showcase page.
