@@ -7,4 +7,6 @@ importance: 3
 category: work
 ---
 
-Another test project
+[The AI for Cultural Heritage Hub (ArCH)](https://www.lib.cam.ac.uk/research-institute/projects/arch) is a project bringing together Galleries, Libraries, Museums, and Archives (GLAM) institutions at Cambridge to create a Community of Practice and explore the use of AI tools. The project is supported by [ai@cam](https://www.ai.cam.ac.uk/projects/ai-for-cultural-heritage-hub-arch.html) and [Accelerate Science](https://science.ai.cam.ac.uk/projects/2025-01-30-ai-for-cultural-heritage-hub-arch) as an AI-deas initiative.
+
+I have worked on several cast studies as part of this project, especially where tailored AI and computational methodolgies are needed. More details about the case studies, and the project more generally, can be found on the webpage https://www.lib.cam.ac.uk/research-institute/projects/arch.
