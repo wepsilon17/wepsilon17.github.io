@@ -63,6 +63,11 @@ ninja.data = [{
           description: "AI for Cultural Heritage Hub",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-punch-mark-classification",
+          title: 'Punch Mark Classification',
+          description: "Domain Generalization for Punch Mark Classification",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
