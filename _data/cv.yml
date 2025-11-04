@@ -1,17 +1,7 @@
-- title: Education
-  type: time_table
+- title: General Information
+  type: map
   contents:
-    - title: PhD
-      institution: University of Cambridge, Cambridge, UK
-      year: 2022-now
-      description:
-        - Studying mathematics arising from applications of signal and image processing to art investigation and cultural heritage.
-        - Supervised by Professor Carola-Bibiane Schonlieb and part of the Cambridge Image Analysis Group.
-        - Funded by the UKRI Engineering and Physical Sciences Research Council
-    - title: Bacholer of Science in Mathematics, Bacholer of Science in Computer Science
-      institution: Duke University, Durham, NC, USA
-      year: 2018-2022
-      description:
-        - Graduated magna cum laude with distinction in mathematics.
-        - Collaborated with Professor Ingrid Daubechies and the international research team ARTICT on projects related to mathematics for image processing related to art investigation.
-        - Completed a senior thesis titled "Dolbealt Cohomology of Non-Compact Metric Graphs" in pure mathematics under the supervision of Professor Joseph Rabinoff.
+    - name: Full Name
+      value: Wallace Peaslee
+    - name: Languages
+      value: English
