@@ -48,9 +48,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-artict",
+          title: 'ARTICT',
+          description: "Art Through the ICT Lens",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-music-manuscript-reconstruction",
@@ -68,6 +68,11 @@ ninja.data = [{
           description: "Domain Generalization for Punch Mark Classification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-punch-mark-classification",
+          title: 'Punch Mark Classification',
+          description: "Forbidden Configurations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
