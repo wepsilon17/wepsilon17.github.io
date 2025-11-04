@@ -2,7 +2,7 @@
 layout: page
 title: Punch Mark Classification
 description: Domain Generalization for Punch Mark Classification
-img: assets/img/mesolex_gesso_micro_lab_2025-2121x1515.jpg
+img: assets/img/PunchMarkImage1.png
 importance: 4
 category: work
 ---
