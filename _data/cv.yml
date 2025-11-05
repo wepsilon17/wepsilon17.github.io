@@ -79,6 +79,26 @@
         - Implemented specialized clustering and cleaning algorithms to exploit unique attributes of the data, enabling new forms of analysis for millions of peptide sequences and helping laboratory scientists process data.
         - Automated portions of the data-processing pipeline and played a major role in the reduction of analysis time from two weeks to a couple of hours by writing programs using tools such as shell scripting, Python, and Java.
 
+
+- title: Selected Presentations
+  type: time_table
+  contents:
+    - title: 33rd European Signal Processing Conference (EUSIPCO)
+      institution: Palermo, Italy
+      year: September 2025
+      description:
+        - "Poster & paper: *Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes*. W. Peaslee, A. Breger, and C.-B. Schonlieb."
+        - Awarded EURASIP student travel grant.
+    - title: "AI and Nahuatl Heritage Materials: Challenges and Opportunities"
+      institution: Cambridge, UK
+      year: September 2025
+      description:
+        - Long talk describing original research on uses of AI in analyzing the Nahuatl sources (indigenous to Mexico and Central America) alongside a gentle introduction to technical AI concepts for cultural heritage researchers.
+        - Presented novel research on bespoke AI methods for Nahuatl heritage materials, including deep learning and clustering techniques with exciting results for domain experts. Collaboration with Dr. Joshua Fitzgerald.
+
+
+
+
 - title: Teaching and Service
   type: time_table
   contents:
