@@ -42,7 +42,7 @@
 
     - title: Centrum Wiskunde & Informatica, PhD Internship
       institution: Amsterdam, Netherlands
-      year: March 2024 - June 2024 
+      year: Spring 2024 
       description:
         - Explored computational tools for cultural heritage as a visitor in the Computational Imaging group under the supervision of Prof. Tristan van Leeuwen and Dr. Francien Bossema. Funded by the Dutch Research Council (NWO) at the Dutch National Research Institute for Mathematics and Computer Science (CWI).
         - Collaborated with the Rijksmuseum’s Operation Night Watch for multi-scale automatic image registration.
@@ -50,7 +50,7 @@
 
     - title: PRUV Fellow
       institution: Duke University
-      year: 2021-2022
+      year: 2021 - 2022
       description:
         - Researched Dolbeault cohomology and graphs under the guidance of Dr. Joseph Rabinoff with the support of the NSF-Funded PRUV fellowship, with an intensive research period in summer 2021.
         - Studied topics related to Riemann surfaces, differential geometry, non-archimedean geometry, cohomology, and more.
@@ -74,7 +74,36 @@
 
     - title: Data Science Intern
       institution: Navigen Pharmaceuticals, Salt Lake City, UT
-      year: May 2019 - August 2019
+      year: Summer 2019
       description:
         - Implemented specialized clustering and cleaning algorithms to exploit unique attributes of the data, enabling new forms of analysis for millions of peptide sequences and helping laboratory scientists process data.
         - Automated portions of the data-processing pipeline and played a major role in the reduction of analysis time from two weeks to a couple of hours by writing programs using tools such as shell scripting, Python, and Java.
+
+- title: Teaching and Service
+  type: time_table
+  contents:
+    - title: SIAP Reviewer
+      institution: 
+      year: 2025
+      description:
+        - Reviewer for the SIAM Journal on Applied Mathematics (SIAP).
+    - title: V-KEMS Virtual Study Group Facilitator
+      institution: Virtual
+      year: 2025
+      description:
+        - Facilitated the three-day Virtual Study Group "Mathematics in Archaeology and the Study of Museum Collections," leading the theme Fitzwilliam Museum "Multimodal Image Registration and Stitching"
+        - Results from the workshop will be summarized in a forthcoming synopsis publication. Initiative by Virtual Forum for Knowledge Exchange in the Mathematical Sciences (V-KEMS).
+    - title: Summer Internship Supervisor
+      institution: University of Cambridge
+      year: 2023
+      description:
+        - Co-supervised undergraduate summer internship project investigating implicit neural representations with various activation functions alongside plug-and-play optimization for image super resolution.
+    - title: Research Africa, ISSN 2575-6990
+      institution: Duke University
+      year: 2019 - 2022
+      description:
+        - Lead Editor (April 2020 - May 2022)
+          - Supported the development of a scholarly network on current topics broadly related to Africa by distributing information to approximately 1,5000 scholars through the Research Africa email list.
+          - Managed a three-person team that revises book, literature, and media reviews for a tri-annual publication.
+        - Associate Editor (April 2019 - April 202)
+          - Assisted the Research Africa team by editing reviews in addition to contacting publishers and reviewers.
