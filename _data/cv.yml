@@ -19,10 +19,10 @@
 - title: Research Interests
   type: list
   contents: 
-    - I am interested in the intersection of image analysis and cultural heritage. In particular, this involves developing bespoke models and methods tailored to the multi-modal and multi-domain imaging data encountered in heritage science. Among other projects, my research has the following larger efforts <br>
-      - Visualizing features of paintings (e.g. artist sketches) using hyperspectral data. <br>
-      - Generalizing neural-network to classifying imprints common in medieval Italian gold-ground paintings. <br>
-      - Reconstructing music manuscripts with multi-spectral image processing. <br>
+    - "I am interested in the intersection of image analysis and cultural heritage. In particular, this involves developing bespoke models and methods tailored to the multi-modal and multi-domain imaging data encountered in heritage science. Among other projects, some focuses in my research are:" <br>
+       &nbsp;&nbsp;&nbsp;&nbsp; "- Visualizing features of paintings (e.g. artist sketches) using hyperspectral data." <br>
+       &nbsp;&nbsp;&nbsp;&nbsp; "- Generalizing neural-network to classifying imprints common in medieval Italian gold-ground paintings." <br>
+       &nbsp;&nbsp;&nbsp;&nbsp;"- Reconstructing music manuscripts with multi-spectral image processing." <br>
 
 
 - title: Experience
@@ -159,9 +159,9 @@
     - title: Research Africa, ISSN 2575-6990
       institution: Duke University
       year: 2019 - 2022
-      description: |
+      description:
         - Lead Editor (April 2020 - May 2022) <br>
-          - Supported the development of a scholarly network on current topics broadly related to Africa by distributing information to approximately 1,5000 scholars through the Research Africa email list. <br>
-          - Managed a three-person team that revises book, literature, and media reviews for a tri-annual publication.
+           &nbsp;&nbsp;&nbsp;&nbsp; "- Supported the development of a scholarly network on current topics broadly related to Africa by distributing information to approximately 1,5000 scholars through the Research Africa email list." <br>
+           &nbsp;&nbsp;&nbsp;&nbsp; "- Managed a three-person team that revises book, literature, and media reviews for a tri-annual publication."
         - Associate Editor (April 2019 - April 202) <br>
-          - Assisted the Research Africa team by editing reviews in addition to contacting publishers and reviewers.
+           &nbsp;&nbsp;&nbsp;&nbsp; "- Assisted the Research Africa team by editing reviews in addition to contacting publishers and reviewers."
