@@ -25,3 +25,56 @@
       - Reconstructing music manuscripts with multi-spectral image processing.
 
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: AI for Cultural Heritage Hub (ArCH)
+      institution: University of Cambridge
+      year: 2025 - 2026
+      description:
+        - Supporting several case studies brought by Cambridge cultural heritage institutions by developing bespoke AI and computational methods. These involve reconstructing shattered papyrus scrolls, handwriting analysis, and feature extraction from Mesoamerican manuscripts. https://www.lib.cam.ac.uk/research-institute/projects/arch.
+    
+    - title: C2D3 Music Reconstruction
+      institution: University of Cambridge
+      year: 2025 - 2026
+      description:
+        - Developing computational and AI methods to reconstruct degraded music notation, primarily by processing multispectral images. Collaborator on C2D3 funded project AI meets cultural heritage; Non-invasive imaging and machine learning techniques for the reconstruction of degraded historical sheet music.
+
+    - title: Centrum Wiskunde & Informatica, PhD Internship
+      institution: Amsterdam, Netherlands
+      year: March 2024 - June 2024 
+      description:
+        - Explored computational tools for cultural heritage as a visitor in the Computational Imaging group under the supervision of Prof. Tristan van Leeuwen and Dr. Francien Bossema. Funded by the Dutch Research Council (NWO) at the Dutch National Research Institute for Mathematics and Computer Science (CWI).
+        - Collaborated with the Rijksmuseum’s Operation Night Watch for multi-scale automatic image registration.
+        - Investigated multi-modal fusion of X-ray computed tomography (CT), surface scanning, and various forms of photography and photogrammetry, working on registration via optimization on Lie Groups.
+
+    - title: PRUV Fellow
+      institution: Duke University
+      year: 2021-2022
+      description:
+        - Researched Dolbeault cohomology and graphs under the guidance of Dr. Joseph Rabinoff with the support of the NSF-Funded PRUV fellowship, with an intensive research period in summer 2021.
+        - Studied topics related to Riemann surfaces, differential geometry, non-archimedean geometry, cohomology, and more.
+
+    - title: ARTICT, Applied Mathematics and Computer Vision Research
+      institution: Duke University
+      year: 2020 - 2022
+      description:
+        - Develop algorithms for art analysis using high-dimensional and multimodal data from scientific imaging of art.
+        - Supervised by Distinguished Professor Ingrid Daubechies as part of the international research team ARTICT.
+        - Apply and study dimension reduction and other signal processing methods (e.g. wavelet or machine learning approaches) through independent study courses and funded summer research.
+        - Resulted in several poster presentations, highlighted in several talks (e.g. Ingrid Daubechies Royal Society Bakerian Lecture 2025), and expected to result in a broader journal publication in preparation.
+
+    - title: Budapest Semesters in Mathematics, Forbidden Configurations
+      institution: Remote
+      year: 2020
+      description:
+        - Research the field of forbidden configurations, which has deep connections to combinatorics and graph theory.
+        - Collaborate with Dr. Attila Sali (Alfréd Rényi Institute of Mathematics) on extremal problems related to finding maximal matrices that do not contain certain forbidden submatrices.
+        - Began as BSM research course (grade A+) and continued for several years.
+
+    - title: Data Science Intern
+      institution: Navigen Pharmaceuticals, Salt Lake City, UT
+      year: May 2019 - August 2019
+      description:
+        - Implemented specialized clustering and cleaning algorithms to exploit unique attributes of the data, enabling new forms of analysis for millions of peptide sequences and helping laboratory scientists process data.
+        - Automated portions of the data-processing pipeline and played a major role in the reduction of analysis time from two weeks to a couple of hours by writing programs using tools such as shell scripting, Python, and Java.
