@@ -87,7 +87,7 @@
       institution: Palermo, Italy
       year: Sept 2025
       description:
-        - "Poster & paper: *Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes*. W. Peaslee, A. Breger, and C.-B. Schonlieb."
+        - "Poster & paper: <em>Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes</em>. W. Peaslee, A. Breger, and C.-B. Schonlieb."
         - Awarded EURASIP student travel grant.
     - title: "AI and Nahuatl Heritage Materials: Challenges and Opportunities"
       institution: Cambridge, UK
@@ -99,23 +99,23 @@
       institution: Perugia, Italy
       year: Sept 2025
       description:
-        - "Poster: *Multi-Class Normalized Potential Contrast and Applications to Multispectral Images of Manuscripts*. W. Peaslee, A. Breger, and C.-B. Schonlieb."
+        - "Poster: <em>Multi-Class Normalized Potential Contrast and Applications to Multispectral Images of Manuscripts</em>. W. Peaslee, A. Breger, and C.-B. Schonlieb."
     - title: Applied Mathematics and Learning Approaches for Cultural Heritage and the Arts
       institution: Cagliari, Italy
       year: April 2024
       description:
-        - "Contributed talk: *Generalizing to Unseen Paintings When Classifying 14th-Century Punch Marks*. W. Peaslee, L. Wrapson, and C.-B. Schönlieb."
+        - "Contributed talk: <em>Generalizing to Unseen Paintings When Classifying 14th-Century Punch Marks</em>. W. Peaslee, L. Wrapson, and C.-B. Schönlieb."
     - title: Artificial Intelligence & Applied Mathematics for History and Archaeology
       institution: Nice, France
       year: Nov 2023
       description:
-        - "Poster & highlight/lightning talk: *Domain Generalization for the Classification of Punch Marks in 14th-Century Italian Panels*. W. Peaslee, Y. Cheng, A. I. Aviles-Rivero, L. Wrapson, C.-B. Schönlieb."
-        - Invited to special issue Advances in Artificial Intelligence and Quantitative Methods for Archaeology and Art History in the Journal of Cultural Heritage, resulting in publication.
+        - "Poster & highlight/lightning talk: <em>Domain Generalization for the Classification of Punch Marks in 14th-Century Italian Panels</em>. W. Peaslee, Y. Cheng, A. I. Aviles-Rivero, L. Wrapson, C.-B. Schönlieb."
+        - Invited to special issue *Advances in Artificial Intelligence and Quantitative Methods for Archaeology and Art History* in the *Journal of Cultural Heritage*, resulting in publication.
     - title: 10th International Congress on Industrial and Applied Mathematics
       institution: Tokyo, Japan
       year: Aug 2023
       description:
-        - "Poster: *Global and Local Dimension Reduction to Aid Underdrawing Visualization using Hyperspectral Imaging Data from a 15th-Century Painting*. W. Peaslee, S. Faigenbaum-Golovin, I. Daubechies, and B. Sober."
+        - "Poster: <em>Global and Local Dimension Reduction to Aid Underdrawing Visualization using Hyperspectral Imaging Data from a 15th-Century Painting</em>. W. Peaslee, S. Faigenbaum-Golovin, I. Daubechies, and B. Sober."
     - title: Computational Methods for Cultural Heritage
       institution: British Museum, London, UK
       year: Sept 2022
@@ -125,12 +125,12 @@
       institution: CalTech, Pasadena, USA
       year: Aug 2022
       description:
-        - "Poster: *Global and Local Dimension Reduction Methods for Enhancing Underdrawing Visualization using Reflectance Hyperspectral Imaging Data from a 15th Century Painting*. W. Peaslee, M. Melchiorre Di Crescenzo, N. Daly, I. Daubechies, S. Faigenbaum-Golovin, C. Higgitt, and B. Sober." 
+        - "Poster: <em>Global and Local Dimension Reduction Methods for Enhancing Underdrawing Visualization using Reflectance Hyperspectral Imaging Data from a 15th Century Painting</em>. W. Peaslee, M. Melchiorre Di Crescenzo, N. Daly, I. Daubechies, S. Faigenbaum-Golovin, C. Higgitt, and B. Sober." 
     - title: Computational Approaches for Technical Imaging in Cultural Heritage, 7th IP4AI
       institution: Virtual
       year: April 2022
       description:
-        - "Poster: *Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting*. W. Peaslee, M. Melchiorre Di Crescenzo, N. Daly, I. Daubechies, S. Faigenbaum-Golovin, C. Higgitt, and B. Sober."
+        - "Poster: <em>Enhancing Underdrawing Visualization using Adaptive and Localized Image Analysis of Reflectance Hyperspectral Imaging Data from a 15th Century Painting</em>. W. Peaslee, M. Melchiorre Di Crescenzo, N. Daly, I. Daubechies, S. Faigenbaum-Golovin, C. Higgitt, and B. Sober."
     - title: Seminars and Mentions
       description:
         - In addition to speaking at the Cambridge Image Analysis seminars, I have presented at the CWI Computational Imaging group seminar led by Prof. Tristan van Leeuwen (May 2024), and gave a talk for Rijksmuseum’s Operation Night Watch science group.
