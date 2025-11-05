@@ -18,8 +18,8 @@
 
 - title: Research Interests
   type: list
-  contents: |
-    - I am interested in the intersection of image analysis and cultural heritage. In particular, this involves developing bespoke models and methods tailored to the multi-modal and multi-domain imaging data encountered in heritage science. Among other projects, my research has the following larger efforts
+  contents:
+    - title: I am interested in the intersection of image analysis and cultural heritage. In particular, this involves developing bespoke models and methods tailored to the multi-modal and multi-domain imaging data encountered in heritage science. Among other projects, my research has the following larger efforts
       - Visualizing features of paintings (e.g. artist sketches) using hyperspectral data.
       - Generalizing neural-network to classifying imprints common in medieval Italian gold-ground paintings.
       - Reconstructing music manuscripts with multi-spectral image processing.
