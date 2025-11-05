@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Below are some things from my cv, but feel free to email me for a .pdf resume or cv.",
+          description: "Below are a subset of things from my cv, but feel free to email me for a .pdf resume or more complete cv.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
